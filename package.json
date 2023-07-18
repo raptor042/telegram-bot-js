@@ -1,0 +1,21 @@
+{
+  "name": "telegram-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "mongoose": "^7.3.1",
+    "telegraf": "^4.12.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
